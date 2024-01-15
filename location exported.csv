@@ -1,0 +1,66 @@
+Term ID,Term Name,Term Slug,Parent ID,Parent Name,Parent Slug,Count
+12,Florida,florida,2,USA,usa,0
+28,Missouri,missouri,2,USA,usa,0
+44,South Dakota,south-dakota,2,USA,usa,0
+205,France,france,0,,,0
+13,Georgia,georgia,2,USA,usa,0
+29,Montana,montana,2,USA,usa,0
+45,Tennessee,tennessee,2,USA,usa,0
+206,KSA,ksa,0,,,0
+14,Hawaii,hawaii,2,USA,usa,0
+30,Nebraska,nebraska,2,USA,usa,0
+46,Texas,texas,2,USA,usa,0
+207,Italy,italy,0,,,0
+15,Idaho,idaho,2,USA,usa,0
+31,Nevada,nevada,2,USA,usa,0
+47,Utah,utah,2,USA,usa,0
+208,New Zealand,new-zealand,0,,,0
+16,Illinois,illinois,2,USA,usa,0
+32,New Hampshire,new-hampshire,2,USA,usa,0
+48,Vermont,vermont,2,USA,usa,0
+209,Turkey,turkey,0,,,0
+17,Indiana,indiana,2,USA,usa,0
+33,New Jersey,new-jersey,2,USA,usa,0
+49,Virginia,virginia,2,USA,usa,0
+262,location sub level2,location-sub-level2,3,Alabama,alabama,0
+2,USA,usa,0,,,0
+18,Iowa,iowa,2,USA,usa,0
+34,New Mexico,new-mexico,2,USA,usa,0
+50,Washington state,washington-state,2,USA,usa,0
+862,Miami,miami,12,Florida,florida,0
+3,Alabama,alabama,2,USA,usa,0
+19,Kansas,kansas,2,USA,usa,0
+35,New York,new-york,2,USA,usa,0
+51,West Virginina,west-virginina,2,USA,usa,0
+4,Alaska,alaska,2,USA,usa,0
+20,Kentucky,kentucky,2,USA,usa,0
+36,North Carolina,north-carolina,2,USA,usa,0
+52,Wisconsin,wisconsin,2,USA,usa,0
+5,Arkansas,arkansas,2,USA,usa,0
+21,Louisiana,louisiana,2,USA,usa,0
+37,North Dakota,north-dakota,2,USA,usa,0
+53,Wyoming,wyoming,2,USA,usa,0
+6,Arizona,arizona,2,USA,usa,0
+22,Maine,maine,2,USA,usa,0
+38,Ohio,ohio,2,USA,usa,0
+194,canada,canada,0,,,0
+7,California,california,2,USA,usa,0
+23,Maryland,maryland,2,USA,usa,0
+39,Oklahoma,oklahoma,2,USA,usa,0
+195,china,china,0,,,0
+8,Colorado,colorado,2,USA,usa,0
+24,Massachusetts,massachusetts,2,USA,usa,0
+40,Oregon,oregon,2,USA,usa,0
+196,United Kingdom,united-kingdom,0,,,0
+9,Connecticut,connecticut,2,USA,usa,0
+25,Michigan,michigan,2,USA,usa,0
+41,Pennsylvania,pennsylvania,2,USA,usa,0
+202,Australia,australia,0,,,10
+10,Delaware,delaware,2,USA,usa,0
+26,Minnesota,minnesota,2,USA,usa,0
+42,Rhode Island,rhode-island,2,USA,usa,0
+203,Pakistan,pakistan,0,,,1
+11,District of Columbia,district-of-columbia,2,USA,usa,0
+27,Mississippi,mississippi,2,USA,usa,0
+43,South Carolina,south-carolina,2,USA,usa,0
+204,India,india,0,,,0
